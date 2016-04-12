@@ -1,0 +1,1 @@
+Simple football manager in Pascal in textmode (1999 year)
